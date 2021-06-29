@@ -2,7 +2,7 @@
   "name": "vue-devops",
   "version": "0.1.0",
   "private": true,
-  'homepage": "https://dlwlgn.github.io/vue-devops",
+  "homepage": "https://dlwlgn.github.io/vue-devops",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
