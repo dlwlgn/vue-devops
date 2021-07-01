@@ -9,6 +9,9 @@ vue -V
 ```
 
 ## Vue 프로젝트 생성
+```
+vue create vue-devops
+```
 정보 설정이 필요한 경우<br>
 ```
 git config --global user.name "이지훈"
