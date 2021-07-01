@@ -22,6 +22,7 @@ Manual select features<br>
 Unit Testing 추가 선택<br>
 3.x<br>
 ESLint + Prettier<br>
+Lint on save<br>
 Jest<br>
 In dedicated config files<br>
 N<br><br>
